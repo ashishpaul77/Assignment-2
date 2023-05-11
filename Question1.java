@@ -15,9 +15,13 @@ public class Question1 {
 		  }
 		}
 	}
-	
-	
-	
- }
+   }
 }
+
+// output: 
+// Duplicate elements in given array
+// 4
+// 4
+// 7
+// 4
 
